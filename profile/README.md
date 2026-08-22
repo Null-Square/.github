@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Null-Square/.github/main/profile/assets/nullsquare-org-cover.png" alt="NullSquare — Secure the unknown" width="100%">
+<img src="https://raw.githubusercontent.com/Null-Square/.github/main/profile/assets/github-social.png" alt="NullSquare — Secure the unknown" width="100%">
 
 ### AI-driven offensive security &amp; continuous intelligence
 
